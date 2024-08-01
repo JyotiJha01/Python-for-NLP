@@ -5,7 +5,6 @@ Soon adding all:
 
 1. Fundamentals
     - Word Vectors - Word2Vec (Skipgram)  
-    - Word Vectors - Word2Vec (Negative sampling)
     - Word Vectors - GloVe
     - Window-Based Name Entity Recognition
     - Dependency Parsing
