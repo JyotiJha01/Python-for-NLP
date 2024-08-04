@@ -7,10 +7,10 @@ Soon adding all:
     - Word Vectors - Word2Vec (Skipgram)  
     - Word Vectors - GloVe
     - Window-Based Name Entity Recognition
-    - Dependency Parsing
-    - Information Retrieval / Salient Spans
 
-2. Deep Learning (DL)
+2. Deep Learning (DL) 
+    - RNN(Recurrent Neural Network)
+
 
 3. SpaCy
 
