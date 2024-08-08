@@ -10,6 +10,7 @@ Soon adding all:
 
 2. Deep Learning (DL) 
     - RNN(Recurrent Neural Network)
+    - LSTM(Long Short-Term Memory)
 
 
 3. SpaCy
